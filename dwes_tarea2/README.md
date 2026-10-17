@@ -3,16 +3,20 @@ Configuración de un entorno de desarrollo local con PHP y Visual Studio Code, e
 
 ## 🚀 Resultados Visuales
 - **Comprobación de versión de PHP:**
-  ![Versión de PHP](capturas/captura1.png)
+  ![Versión de PHP]
+  (capturas/captura1.png)
 
 - **Ejecución en navegador (`http://localhost:8000/index.php`):**
-  ![Resultado en el navegador](capturas/captura3.png)
+  ![Resultado en el navegador]
+  (capturas/captura3.png)
 
 - **Código fuente en cliente (Ctrl + U):**
-  ![Código fuente procesado](capturas/captura4.png)
+  ![Código fuente procesado]
+  (capturas/captura4.png)
 
 - **Análisis de cabeceras en Herramientas de Desarrollador (F12):**
-  ![Inspección HTTP](capturas/captura5.png)
+  ![Inspección HTTP]
+  (capturas/captura5.png)
 
 ## 🛠️ Tecnologías utilizadas
 - PHP 8.x (CLI / Servidor integrado)
