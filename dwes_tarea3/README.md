@@ -2,13 +2,13 @@
 Estudio e implementación de la sintaxis fundamental de PHP: declaración y verificación de tipos de datos (`var_dump`), evaluación de cadenas y constantes, comparación e interpolación de tipos, y gestión del ámbito de variables (`global` / `local`).
 
 ## 🚀 Resultados Visuales
-- **Ejecución completa en el navegador (`http://localhost:8000/sintaxis.php`):**
+- **Ejecución completa en el navegador (`http://localhost:8000/sintaxis.php`):**  
   ![Resultado en navegador](capturas/captura2.png)
 
-- **Código fuente en Visual Studio Code (`sintaxis.php`):**
+- **Código fuente en Visual Studio Code (`sintaxis.php`):**  
   ![Código fuente en VS Code](capturas/captura1.png)
 
-- **Servidor local PHP activo en la terminal:**
+- **Servidor local PHP activo en la terminal:**  
   ![Servidor integrado en terminal](capturas/captura3.png)
 
 ## 🛠️ Tecnologías utilizadas
