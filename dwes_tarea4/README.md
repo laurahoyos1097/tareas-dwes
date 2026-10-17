@@ -3,7 +3,7 @@ Creación de una tarjeta de perfil profesional dinámica mediante la integració
 
 ## 🚀 Resultados Visuales
 - **Resultado de la tarjeta en el navegador (`http://localhost:8000/tarjeta.php`):**
-  \n ![Tarjeta de perfil en el navegador](capturas/captura2.png)
+  ![Tarjeta de perfil en el navegador](capturas/captura2.png)
 
 - **Código fuente en Visual Studio Code (`tarjeta.php`):**
   ![Código PHP embebido en VS Code](capturas/captura1.png)

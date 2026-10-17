@@ -3,16 +3,13 @@ Estudio e implementación de la sintaxis fundamental de PHP: declaración y veri
 
 ## 🚀 Resultados Visuales
 - **Ejecución completa en el navegador (`http://localhost:8000/sintaxis.php`):**
-  ![Resultado en navegador]
-  (capturas/captura2.png)
+  ![Resultado en navegador](capturas/captura2.png)
 
 - **Código fuente en Visual Studio Code (`sintaxis.php`):**
-  ![Código fuente en VS Code]
-  (capturas/captura1.png)
+  ![Código fuente en VS Code](capturas/captura1.png)
 
 - **Servidor local PHP activo en la terminal:**
-  ![Servidor integrado en terminal]
-  (capturas/captura3.png)
+  ![Servidor integrado en terminal](capturas/captura3.png)
 
 ## 🛠️ Tecnologías utilizadas
 - PHP 8.x (CLI / Servidor integrado)
